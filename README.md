@@ -4,9 +4,9 @@
 
 ## React Stuff
 
-### Render Props vs Rendering Children
+### Render Props
 
-Passing a render function to 
+* Passing a render function to 
 
 * Docs: https://reactjs.org/docs/render-props.html
 
@@ -17,6 +17,10 @@ Passing a render function to
               <Cat mouse={mouse} />
             )}/>
     ```
+
+### Rendering Children
+
+
 
 ### Composite Components
 
